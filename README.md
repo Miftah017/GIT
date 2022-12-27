@@ -1,0 +1,2 @@
+# GIT
+STEP AWAL GIT
